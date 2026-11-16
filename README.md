@@ -62,7 +62,7 @@ Si quieres compilar el proyecto en tu propio ordenador:
 
 *(Nota: Para generar un archivo instalable en Android `.apk`, ejecuta `flutter build apk --release` y transfiérelo a tu teléfono).*
 
-## 👩‍💻 Autora
+---
 
 Creado y diseñado por **Andrea Ivanov**.
-Versión actual: `1.1.0`
+Versión actual: `1.0.0`
