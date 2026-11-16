@@ -4,9 +4,21 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p align="center">
-  <img src="./imagenes-descripcion/icon.png" alt="Icono app" width="120"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="imagenes-descripcion/icon.png" width="90" alt="Icono Cantador de Bingo" /><br />
+      <strong>Cantador de Bingo</strong>
+    </td>
+    <td align="center" width="320">
+      <a href="https://github.com/andrea-ivanov/cantador-de-bingo/releases/latest">
+        <img src="https://img.shields.io/badge/Descargar-APK_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK" />
+      </a>
+      <br /><br />
+      <sub>Descarga el archivo <code>.apk</code> e instálalo directamente en tu móvil Android.</sub>
+    </td>
+  </tr>
+</table>
 
 ¡Bienvenido al **Cantador de Bolas de Bingo**! Una aplicación moderna, limpia y funcional diseñada para cantar los números del clásico Bingo (del 1 al 90) directamente desde tu teléfono móvil.
 
